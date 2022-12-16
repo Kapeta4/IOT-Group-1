@@ -1,0 +1,9 @@
+configparser
+wordcloud
+numpy
+datetime
+pytz
+textblob
+streamlit
+pandas
+tweepy==4.4.0
